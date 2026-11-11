@@ -34,4 +34,3 @@ Full Stack Developer / Software Engineer based in Alenquer, Portugal. I speciali
 ### 🌐 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/gilbertoofer](https://www.linkedin.com/in/gilbertoofer)
-* **Email:** gmrf1996@gmail.com
