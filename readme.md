@@ -1,6 +1,6 @@
 ### Hi there, I'm Gilberto Fernandes 👋
 
-Full Stack Software Engineer based in Alenquer, Portugal. I specialize in engineering resilient architectures, automated data pipelines, and scalable web applications that eliminate technical debt and perform reliably under pressure.
+Full Stack Developer / Software Engineer based in Alenquer, Portugal. I specialize in engineering resilient architectures, automated data pipelines, and scalable web applications that eliminate technical debt and perform reliably under pressure.
 
 ---
 
