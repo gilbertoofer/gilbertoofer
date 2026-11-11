@@ -1,38 +1,37 @@
-### Hi, I'm Gilberto Fernandes 👋
+### Hi there, I'm Gilberto Fernandes 👋
 
+Full Stack Software Engineer based in Alenquer, Portugal. I specialize in engineering resilient architectures, automated data pipelines, and scalable web applications that eliminate technical debt and perform reliably under pressure.
+
+---
+
+### 💻 Tech Stack
+
+* **Backend:** PHP 8.3/7, Laravel 12, Python, REST APIs
+* **Frontend:** JavaScript, TypeScript, React, Next.js
+* **Databases & Tools:** MySQL, Git, Concourse CI/CD, Pest / PHPUnit
+* **Core Competencies:** End-to-End Development, Solution Design, Performance Optimization, Data Engineering (ETL)
+
+---
+
+### 🚀 Professional Highlights
+
+* **Fault-Tolerant ETL Pipelines (Doutor Finanças):** Engineered robust data acquisition pipelines (Laravel 12, Python) guaranteeing the daily capture of 10,000+ revenue-critical records and eliminating release blind spots via Concourse CI/CD.
+* **System Resilience & Optimization (Creative Code Solutions):** Slashed incident resolution downtime by 30% by autonomously delivering 15+ end-to-end features and third-party API integrations in a high-volume B2B environment.
+* **Secure Enterprise Integrations (Generis Farmacêutica):** Operationalized internal MVC projects by implementing robust OAuth 2.0 enterprise authentication and Microsoft Graph API integrations.
+
+---
 <!--
-**devGilberto/devGilberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats & Metrics
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilbertoofer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoofer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
 
-Web Developer👨🏻‍💻 <br />
+### 🌐 Connect with Me
 
-
-From 📍Lisbon with over 2 years of experience mixed with professional and academic experience of designing, building, and customizing websites/software <br />
-
-📚 I'm currently doing a Web Design React Course at Udemy
-
-<!-- 📚 I'm currently finishing, a intership report, to complete a Computer Science Degree at University, Santarém School of Management and Technology <br /> -->
-
-💥 My strengths: <br />
-✅ Responsibility <br />
-✅ Creativity <br />
-✅ Proactive <br />
-
-⚡ Fun fact:<br />
-- Since a kid i'm a tech lover. 
-- I really like doing Crossfit®, help me keeping focus what matter 🎯 
-- Volunteer Web Summit 2019
-<br />
-[LinkedIn]: https://www.linkedin.com/in/gilbertoofer
-[Behance]: https://www.behance.net/gilbertofernandes19
+* **LinkedIn:** [linkedin.com/in/gilbertoofer](https://www.linkedin.com/in/gilbertoofer)
+* **Email:** gmrf1996@gmail.com
